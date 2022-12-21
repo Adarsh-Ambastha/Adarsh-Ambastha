@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adarsh ambastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh ambastha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adarsh ambastha" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://cdn-icons-png.flaticon.com/512/174/174857.png)" alt="adarsh ambastha" height="30" width="40" /></a>
 <a href="https://kaggle.com/adarsh ambastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adarsh ambastha" height="30" width="40" /></a>
 <a href="https://instagram.com/adarsh_ambastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarsh_ambastha" height="30" width="40" /></a>
 </p>
