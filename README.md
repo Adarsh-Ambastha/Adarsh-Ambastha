@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/adarsh ambastha" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://cdn-icons-png.flaticon.com/512/174/174857.png)" alt="adarsh ambastha" height="30" width="40" /></a>
 <a href="https://kaggle.com/adarsh ambastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adarsh ambastha" height="30" width="40" /></a>
-<a href="https://instagram.com/adarsh_ambastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarsh_ambastha" height="30" width="40" /></a>
+<a href="https://instagram.com/adarsh_ambastha" target="blank"><img align="center" src="https://github.com/Adarsh-Ambastha/Adarsh-Ambastha/blob/main/Icon%20for%20Git/icons8-instagram-100.png" alt="adarsh_ambastha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
