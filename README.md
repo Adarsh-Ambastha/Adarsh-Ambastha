@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adarsh Ambastha</h1>
 <h3 align="center">A passionate Data Scientist always experimenting and analysing on Data</h3>
 
-- 🔭 I’m currently working on [WhatsApp Chat Analysis](https://adarsh-ambastha-whatsappanalysis-whatsapp-app-h3klmy.streamlit.app/)
+- 🔭 I’m currently Pursuing  M.Sc Data Science at DAIICT
 
-- 🌱 I’m currently learning **Tensorflow, Deep-Learning, natural Language Processing**
-
-- 👯 I’m looking to collaborate on **Open CV related Projects**
+- 🌱 I’m currently learning **Scikitlearn, Machine-Learning, Web Scrapping**
 
 - 🤝 I’m looking for help with **Exploring ways of making a successful career in the field of Data Science**
 
 - 👨‍💻 All of my major projects are available at [https://github.com/](https://github.com/)
-
-- 💬 Ask me about **Data Science , Data Analysis , Machine learning . Neural Networks ,Competitive Coding, Big Data , Hadoop**
 
 - 📫 How to reach me **adarshambastha18@gmail.com**
 
