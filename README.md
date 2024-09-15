@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Ambastha</h1>
 <h3 align="center">A passionate Data Scientist always experimenting and analysing on Data</h3>
 
-- 🔭 I’m currently Pursuing  M.Sc Data Science at DAIICT
+- 🔭 I’m currently Pursuing  M.Sc Data Science at **DAIICT Gandhinagar**
 
 - 🌱 I’m currently learning **Scikitlearn, Machine-Learning, Web Scrapping**
 
