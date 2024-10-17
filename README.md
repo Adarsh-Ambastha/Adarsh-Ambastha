@@ -16,6 +16,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adarsh ambastha" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="adarsh ambastha" height="30" width="40" /></a>
-<a href="https://kaggle.com/adarsh ambastha" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" alt="adarsh ambastha" height="30" width="40" /></a>
-<a href="https://instagram.com/adarsh_ambastha" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="adarsh_ambastha" height="30" width="40" /></a>
+
 </p>
